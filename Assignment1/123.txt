@@ -1,1 +1,9 @@
+Feature extraction
+1. color histograms
+2. SIFT
+3. BRISK
 
+Classification model
+1. KNN
+2. Random forest
+3. SVM
